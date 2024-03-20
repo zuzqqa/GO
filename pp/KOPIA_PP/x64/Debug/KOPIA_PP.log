@@ -1,0 +1,15 @@
+﻿  KOPIA_PP.cpp
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(94,63): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(95,52): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(96,68): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(97,52): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(98,40): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(99,57): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(100,73): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(101,73): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(102,89): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(131,37): warning C4309: '=': truncation of constant value
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(164,7): warning C4101: 'zn': unreferenced local variable
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(206,7): warning C4101: 'zn': unreferenced local variable
+C:\Users\zuzia\Downloads\pp\KOPIA_PP\KOPIA_PP.cpp(854,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  KOPIA_PP.vcxproj -> C:\Users\zuzia\Downloads\pp\x64\Debug\KOPIA_PP.exe
